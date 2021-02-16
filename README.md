@@ -14,7 +14,7 @@
 <p>* 💻 I’m currently working with C#</p>
 <p>* 🚀 If i don't know, i will to learn</p>
 <p>* 🌱 I’m currently learning C# and React</p>
-<p>* 📫 contact-me: matheusstma@gmail.com</p>
+<p>* 📫 Contact-me: matheusstma@gmail.com</p>
 
 
 
